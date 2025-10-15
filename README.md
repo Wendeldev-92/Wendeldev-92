@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Wendel Batista 👋
 
 💻 Estudante de Analise e Desenvolvimento de Sistemas
-📍  Cotia - SP, Brasil  
-🚀 Apaixonado por criar coisas e faze-las funcionar
+📍 Cotia - SP, Brasil  
+🚀 Futuro Dev. 
 
 <picture>
   <source
@@ -18,11 +18,11 @@
 
 ## Sobre mim 💻
 
-- 🔭 Hoje trabalho com Suporte de TI
+- 🔭 Atualmente trabalho com Suporte de TI(Assistente/ N1 e N2)
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas | Python
-- 🥁 Baterista
 - 📫 Contate-me no email: wendelr90@gmail.com
-- 😄 ele/dele
+- 🥁 Musico/ Drums
+- 🎮 Hobbies: Pc Gamer/ Effotball/ Corrida
 
 ## 🛠️ Tecnologias
 
@@ -31,7 +31,6 @@
   <img align="center" alt="Wendel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Wendel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Wendel-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  
 </div>
 
 ##
